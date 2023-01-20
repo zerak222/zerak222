@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rakesh (AKA @zerak222)
 - 👀 I’m interested in coding, trying new technical stuff
-- 🌱 I’m currently exploring blockchain.
+- 🌱 I’m currently building my basics in DSA.
 - 📫 How to reach me zerak222@gmail.com
 
 <!---
